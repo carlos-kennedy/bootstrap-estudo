@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #5abd79;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-track{
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+body {
+
+      font: 20px 'Lato', sans-serif;
+}
+
+.navbar{
+    background-color: #5abd79;
+}
+
+.sobre{
+    color:#138D75;
+    background-color:#DAF7A6;
+}
+
+.margin{
+    padding: 25px 0px 25px 0px;
+}
+
+/* 25px: top, 0px: right, 25px: top, 0px: left */
+
+.portfolio{
+    color:#DAF7A6;
+    background-color: #0e5547;  
+}
+
+.parceiros{
+    background-color:#ABEBC6;
+}
+
+.bg-footer{
+    background-color: #5abd79;
+}
